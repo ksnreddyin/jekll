@@ -1,0 +1,11 @@
+# basic options
+title: Your awesome title
+author: GitHub ksnreddyin
+email: ksnreddyin@gmail.com
+description: A wonderful site
+twitter_username: ksnreddyin
+github_username:  ksnreddyin
+
+# Build settings
+markdown: kramdown
+theme: minima
